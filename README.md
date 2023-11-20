@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently studying Computer Programming (main classes Web Development and C++)
 - 💞️ I’m looking to collaborate on simple games.
-- 📫 How to reach me [TBA]
+- 📫 How to reach me QuooteUnquoote@protonmail.com
 
 <!---
 VworpStageLeft/VworpStageLeft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
